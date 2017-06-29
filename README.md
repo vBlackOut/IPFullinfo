@@ -1,5 +1,5 @@
 # IPFullinfo  
-get the geolocalisaion ip  
+get the geolocalisation ip  
 
 # get take this 
 http://ip4.cuby-hebergs.com/?all  
