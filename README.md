@@ -2,7 +2,7 @@
 get the geolocalisation ip  
 
 # get take this 
-http://ip4.cuby-hebergs.com/?all  
+https://ip4.cuby-hebergs.com/?all  
   
 Your IPv4 78.54.23.45  
 rDNS IPv4 not rDNS  
